@@ -14,8 +14,7 @@ This python repository is organized as follow :
 
 ### Top-down connection allows a mitigation of the prediction error 
 Results on CFD database when varying the first layer sparsity (see arXiv paper for other database and also the effect of varying the second layer sparsity):
-![Prediction Breakdown CFD lbda1](/Savings/Fig/Fig2/CFD_lbda1.png "Prediction breakdown when varying the first layer sparsity")
-Legend : 
+![Prediction Breakdown on CFD when varying lbda1](/Savings/Fig/Fig2-a-ii.png "Prediction breakdown when varying the first layer sparsity")
 
 ### Top-down connection allows a faster convergence of the inference process
 Results on CFD :
