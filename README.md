@@ -32,4 +32,4 @@ Results on CFD database (see arXiv paper for other database):
 
 
 ### Top-down connections allows the learning of extended and more contextual RFs (Fig 7).
-Results on CFD : 
+![Activation and features for Hila and 2LSPC](/Savings/Fig/Fig7.png "Activation and features for HiLa and 2LSPC")
