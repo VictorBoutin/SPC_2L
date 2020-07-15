@@ -17,15 +17,17 @@ Results on CFD database when varying the first layer sparsity (see arXiv paper f
 ![Prediction Breakdown on CFD when varying lbda1](/Savings/Fig/Fig2-a-ii.png "Prediction breakdown when varying the first layer sparsity")
 
 ### Top-down connection allows a faster convergence of the inference process (Fig 4).
-Results on CFD database when varying the first and the second layer sparsity:
-![Prediction Breakdown on CFD when varying lbda1](/Savings/Fig/Fig4/Fig4-a_and_b-ii.png "Number of inference iteration")
+Results on CFD database when varying the first and the second layer sparsity (see arXiv paper for other databases:
+![Number of inference iteration on CFD when varying lbda1 and lbda2](/Savings/Fig/Fig4-a_and_b-ii.png "Number of inference iteration")
 
 
 ### Top-down connection refines the prediction made by the second layer (Fig 5).
 Results on STL :
 
 ### Top-down connection speeds-up the training of the network (Fig 6).
-Results on CFD :
+Results on CFD database (see arXiv paper for other database):
+![Training on CFD database](/Savings/Fig/Fig6-ii.png "Training on CFD database")
+
 
 ### Top-down connections allows the learning of extended and more contextual RFs (Fig 7).
 Results on CFD : 
