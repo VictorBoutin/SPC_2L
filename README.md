@@ -24,6 +24,7 @@ Results on CFD database when varying the first and the second layer sparsity (se
 
 ### Top-down connection refines the prediction made by the second layer (Fig 5).
 Results on STL :
+![Evolution of prediction error with iteration](/Savings/Fig/Fig5-a.png "Evolution of prediction error with iteration")
 
 ### Top-down connection speeds-up the training of the network (Fig 6).
 Results on CFD database (see arXiv paper for other database):
