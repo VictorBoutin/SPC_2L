@@ -1,5 +1,7 @@
 # Effect of top-down connections in Hierarchical sparse coding
+Victor Boutin, Angelo Franciosini, Frederic Chavane, Franck Ruffier, Laurent Perrinet
 
+--- 
 This github repository reproduces all the results of the paper entitled "Effect of top-down connections in Hierarchical sparse coding" published at Neural Computaiton ([ArXiv link here](https://arxiv.org/abs/2002.00892)).
 
 This python repository is organized as follow : 
